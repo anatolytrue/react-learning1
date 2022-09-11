@@ -1,0 +1,89 @@
+[
+    {
+        "name": "Protecting the outer rim",
+        "location": "Corvus, Jangala",
+        "speaker": "Jacob Maerser",
+        "type": "free",
+        "time": {
+            "start": "2022-02-17T14:30:00",
+            "end": "2022-02-17T16:30:00"
+        }
+    },
+
+    {
+        "name": "The  art os spying",
+        "location": "Barad sector, Asharu",
+        "speaker": "Artemis Tau",
+        "type": "free",
+        "time": {
+            "start": "2022-04-12T18:00:00",
+            "end": "2022-04-12T19:00:00"
+        }
+    },
+
+    {
+        "name": "A smugglers tale",
+        "location": "Atzlan, Nachiketa",
+        "speaker": "Kai Takeda",
+        "type": "free",
+        "time": {
+            "start": "2022-06-23T17:00:00",
+            "end": "2022-06-23T17:30:00"
+        }
+    },
+
+    {
+        "name": "Dealing with the Diktat",
+        "location": "Corvus, Jangala",
+        "speaker": "Jacob Maerser",
+        "type": "paid",
+        "time": {
+            "start": "2022-02-17T16:30:00",
+            "end": "2022-02-17T16:30:00"
+        }
+    },
+
+    {
+        "name": "Inside the Ludd's Hammer",
+        "location": "Corvus, Jangala",
+        "speaker": "Jacob Maerser",
+        "type": "paid",
+        "time": {
+            "start": "2022-02-17T16:30:00",
+            "end": "2022-02-17T16:30:00"
+        }
+    },
+
+    {
+        "name": "Beyond the core worlds",
+        "location": "Corvus, Jangala",
+        "speaker": "Jacob Maerser",
+        "type": "vip",
+        "time": {
+            "start": "2022-02-17T16:30:00",
+            "end": "2022-02-17T16:30:00"
+        }
+    },
+
+    {
+        "name": "Mining for Profit",
+        "location": "Corvus, Jangala",
+        "speaker": "Jacob Maerser",
+        "type": "vip",
+        "time": {
+            "start": "2022-02-17T16:30:00",
+            "end": "2022-02-17T16:30:00"
+        }
+    },
+
+    {
+        "name": "Deep space horrors",
+        "location": "Corvus, Jangala",
+        "speaker": "Jacob Maerser",
+        "type": "free",
+        "time": {
+            "start": "2022-02-17T16:30:00",
+            "end": "2022-02-17T16:30:00"
+        }
+    }
+]
